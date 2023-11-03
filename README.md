@@ -1,4 +1,4 @@
-# Flexpa Work Sample - Server
+# Flexpa Work Sample - Heather Zoppetti
 
 This is the work sample created for Flexpa.
 
